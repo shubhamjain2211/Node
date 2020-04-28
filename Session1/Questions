@@ -1,0 +1,24 @@
+1.Installing node latest version and npm
+Ans) npm version - 6.13.4
+     node version - 12.16.1
+
+2.Read file asynchronously and synchronously
+Ans) node sync.js
+     node async.js
+
+3.Install dependencies and dev dependencies -- check index.js
+Ans) npm install mocha --save-dev
+     npm install chai --save-dev
+
+     npm install moments --save
+
+4.Customizing in package.json
+Ans) Added Key and Institution
+
+5.Creating module and import & export -- check test-module.js
+Ans) test-module.js
+     index.js
+
+6.Creating a http server -- check index.js
+Ans) index.js
+

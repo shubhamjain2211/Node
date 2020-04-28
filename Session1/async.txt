@@ -1,0 +1,2 @@
+This is text a text File.
+This file is to check asynchronous reading in Node.
