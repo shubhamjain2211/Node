@@ -1,0 +1,11 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Assignment for session2 of Node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Jain",
+  "license": "ISC"
+}
