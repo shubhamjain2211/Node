@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.App ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  font-size: 20px;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+.App ul li {
+  padding: 1rem 2rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+.App ul li:hover {
+  font-weight: bolder;
+  font-style: italic;
+}
+h1{
+  color:red; 
+}
