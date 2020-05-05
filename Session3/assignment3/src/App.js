@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 import Users from './components/Users/Users';
 import AddUser from './components/addUSers/addUser';
 import { Switch, Route } from 'react-router-dom';
@@ -15,8 +15,8 @@ function App() {
   return (
     <div>
       <div className ="link">
-            <span><Link to="/">User List</Link></span>
-            <span><Link to="/addusers">Add User</Link></span>
+            <span><Link to="/">Users</Link></span>
+            <span><Link to="/addusers">Add Users</Link></span>
             <span><a href="http://localhost:5000/aboutus">About Us</a></span>
       </div>
       {route}

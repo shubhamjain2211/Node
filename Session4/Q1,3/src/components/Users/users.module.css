@@ -1,0 +1,30 @@
+.users{
+    text-align: center;
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+    }
+    
+    .usersTable{
+    border-collapse: collapse;
+    width : 50%;
+    margin:  auto;
+    text-align: center;
+    }
+    
+    .usersTable td, th{
+    padding: 1rem;
+    }
+    
+    .Filter{
+    display: block;
+    margin: 1rem 0;
+    background-color: transparent;
+    }
+    
+    .removebtn {
+        padding :3%;
+        color : rgb(235, 23, 23);
+        font-weight: bold;
+        font-size : 2rem;
+    }

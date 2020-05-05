@@ -1,0 +1,25 @@
+.usergit {
+  margin : 2%;
+  color : green;
+  font-weight: bold;
+}
+.link {
+  display :  flex;
+  padding : 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.link span {
+  padding : 2%;
+
+}
+
+.link span a {
+  text-decoration: none;
+  color: blue;
+  font-size: 2rem;
+}
+.link span a:hover{
+  font-weight: bolder;
+}

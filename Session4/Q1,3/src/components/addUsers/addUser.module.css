@@ -1,0 +1,20 @@
+.holder{
+     width : 50%;
+     margin : 2% auto;
+     text-align : center;
+}
+.form {
+    border : 1px solid black;
+}
+
+.form input  {
+      font-size : 1rem;
+      padding : 2%;
+      margin : 2%;
+      display : inline;
+
+}
+.form button {
+     padding : 3%;
+     font-size : 1rem;
+}
