@@ -1,0 +1,9 @@
+Start MongoDB without authentication
+
+Create Database ttn and insert some data into user collection.
+
+Setup the replication with Artiber and verify that ttn database is replicated into secondary.
+
+Add 2 more members to a replica set
+
+Try adding a member which already have data.
