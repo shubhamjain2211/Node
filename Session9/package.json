@@ -1,0 +1,11 @@
+{
+  "name": "session9",
+  "version": "1.0.0",
+  "description": "Design patterns, Functional Prog. concept",
+  "main": "Question_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Jain",
+  "license": "ISC"
+}
